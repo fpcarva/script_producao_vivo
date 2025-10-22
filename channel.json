@@ -1,0 +1,88 @@
+{
+    "env": {
+        "app_mvp": {
+            "channel": "app_mvp",
+            "channel_id": "06320f84-a9a6-4112-bdb8-7bc5bc8e1f91"
+        },
+        "wabr": {
+            "channel": "wabr",
+            "channel_id": "729db3ca196d-4bec-9a24-d8752c78e110"
+        },
+        "app_easy": {
+            "channel": "app_easy",
+            "channel_id": "5bac1fab-de75-45e5-80c7-893a53eac134"
+        },
+        "rh": {
+            "channel": "rh",
+            "channel_id": "2a4949c9-8fb1-4bad-bb17-1370befe50b1"
+        },
+        "vivo_play(stb)": {
+            "channel": "stb",
+            "channel_id": "814bc401-7743-47d3-957b-7f1b2dafe398"
+        },
+        "pwmb2c": {
+            "channel": "pwmb2c",
+            "channel_id": "f61fac64-009c-4b97-84b9-e2c985d8fa91"
+        },
+        "amnb2b": {
+            "channel": "amnb2b",
+            "channel_id": "9ee73370-0a26-11ea-8ea2-000d3ac01169"
+        },
+        "pdgeb2": {
+            "channel": "pdgeb2",
+            "channel_id": "4fb8f157-527c-4443-8c04-426564e93590"
+        },
+        "pdpb2b": {
+            "channel": "pdpb2b",
+            "channel_id": "d749304d-0d71-48d4-a374-f0556c210fa5"
+        },
+        "pdob2b": {
+            "channel": "pdob2b",
+            "channel_id": "f0de0bb0-a1f6-40d4-93b1-ce562f1bd4da"
+        },
+        "beadesk": {
+            "channel": "beadesk",
+            "channel_id": "a9c6e3f4-235d-4b7c-b64c-0133a16144c0"
+        },
+        "casa_inteligente": {
+            "channel": "loj",
+            "channel_id": "aefb934e-5a51-46cf-bd4d-4d4ab87b525b"
+        },
+        "mwde": {
+            "channel": "mwde",
+            "channel_id": "e5c08ac5-1b2a-4911-9716-7ea7905ae65d"
+        },
+        "mwm": {
+            "channel": "mwm",
+            "channel_id": "f5624aa4-b523-11e8-956c-641c678915a4"
+        },
+        "mwdo": {
+            "channel": "mwdo",
+            "channel_id": "7f14d377-3538-434d-a629-414f288a55a9"
+        },
+        "mvmfm": {
+            "channel": "mvmfm",
+            "channel_id": "7fb11ff5-e94b-4b08-a4ea-a9ea3bacb8dd"
+        },
+        "pdb2c": {
+            "channel": "pdb2c",
+            "channel_id": "f61fac64-009c-4b97-84b9-e2c985d8fa91"
+        },
+        "beadeskfa": {
+            "channel": "beadeskfa",
+            "channel_id": "aa6a15fe-b523-11e8-b465-641c678915a4"
+        },
+        "b2b_wpp": {
+            "channel": "b2b_wpp",
+            "channel_id": "e07f494e-7e75-11ea-bc55-0242ac130003"
+        },
+        "pdgeb2b": {
+            "channel": "pdgeb2b",
+            "channel_id": "4fb8f157-527c-4443-8c04-426564e93590"
+        },
+        "pdob2b_desktop": {
+            "channel": "pdob2b",
+            "channel_id": "f0de0bb0-a1f6-40d4-93b1-ce562f1bd4da"
+        }
+    }
+}
